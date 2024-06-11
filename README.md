@@ -28,5 +28,5 @@ Projeto realizado durante o curso de Lógica de Programação: Introdução ao J
 <br>
 
 <p width="100%" align="center">
-  <a href="[alura-jogo-do-numero-secreto-henna.vercel.app](https://alura-jogo-do-numero-secreto-hailtonnetos-projects.vercel.app)" target="_blank"><img src="https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="30%"></a>
+  <a href="[(https://alura-jogo-do-numero-secreto-hailtonnetos-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="30%"></a>
 </p>
