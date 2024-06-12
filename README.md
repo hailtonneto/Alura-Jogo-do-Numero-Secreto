@@ -3,7 +3,6 @@
 <p align="justify">
 Projeto desenvolvido durante os cursos, Lógica de programação: mergulhe em programação com JavaScript e Lógica de programação: explore funções e listas, da empresa Alura, a partir do programa Embarque Digital da Prefeitura da Cidade do Recife. Nestes cursos, desenvolvi o Jogo do Número Secreto em JavaScript. Ele funciona da seguinte maneira: sempre que o usuário abre a página ou cria um novo jogo, um número entre 1 e 100 é gerado, e o usuário pode inserir um número para tentar acertar qual o número gerado, o jogo é finalizado quando o usuário acerta o número gerado.
 </p>
-<br>
 
 - Geração de números inteiros aleatórios em JavaScript;
 - Funções de chute e novo jogo;
